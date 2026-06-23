@@ -1,7 +1,7 @@
 # Projeto Quiosque Restaurante
 
 ## Integrantes
-- Ruancarlo Lenzzi e Gustavo Luis
+- Ruancarlo Brum Lenzzi e Gustavo Luis
 
 ## Disciplina
 Programação 1
